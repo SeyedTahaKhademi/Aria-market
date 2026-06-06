@@ -1,0 +1,8 @@
+{
+  "name": "Aria Market",
+  "description": "پلتفرم فروشگاهی مدرن آریا مارکت مجهز به دستیار خرید هوش مصنوعی، پنل فروشندگان و خرید اقساطی",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
