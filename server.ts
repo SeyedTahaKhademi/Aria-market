@@ -225,6 +225,130 @@ const initialProducts: Product[] = [
       'مقاومت حرارتی': 'قابل استفاده در فر و مایکروویو تا ۲۲۰ درجه',
       'تکنیک رنگرزی': 'ترکیب سنتی نقاشی زیرلعابی تک‌رنگ'
     }
+  },
+  {
+    id: 'p10',
+    title: 'کنسول بازی سونی پلی‌استیشن ۵ اسلیم دیجیتال',
+    englishTitle: 'Sony PlayStation 5 Slim Digital Edition 1TB',
+    category: 'digital',
+    price: 31500000,
+    description: 'کنسول بازی محبوب سونی پی اس ۵ طرح اسلیم با ظرفیت ۱ ترابایت حافظه فوق سریع SSD، پشتیبانی از رزولوشن 4K با نرخ ۱۲۰ فریم بر ثانیه، صدای سه بعدی سه بعدی طوفانی و دابل دسته لمسی دوال سنس مجهز به بازخورد لمسی.',
+    imageUrl: 'https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=500&auto=format&fit=crop&q=60',
+    vendorName: 'آریا دیجی دیجیتال',
+    rating: 4.9,
+    reviewsCount: 228,
+    isInstallmentEligible: true,
+    installmentMonthsMax: 12,
+    downPaymentPercent: 20,
+    specifications: {
+      'فضای ذخیره‌سازی': '1TB SSD فوق سریع اختصاصی',
+      'خروجی تصویر': 'پشتیبانی از کیفیت 4K و 8K HDR',
+      'فریم ریت': 'حداکثر ۱۲۰ فریم بر ثانیه',
+      'دسته همراه': '۱ عدد دوال سنس سفید سفارشی',
+      'ریجن ساخت': 'اروپا گرید A'
+    }
+  },
+  {
+    id: 'p11',
+    title: 'ساعت هوشمند گلکسی واچ ۶ کلاسیک ۴۷ میلی‌لیتر',
+    englishTitle: 'Samsung Galaxy Watch 6 Classic 47mm LTE',
+    category: 'digital',
+    price: 15400000,
+    description: 'ساعت هوشمند رده‌بالای سامسونگ با قاب چرخشی فیزیکی دوست‌داشتنی، سنسورهای ردیابی خواب پیشرفته هوش مصنوعی، پایش فشار خون، نوار قلب (ECG) مستقل و صفحه نمایش بزرگ و درخشان سوپر آمولد غرق در نور.',
+    imageUrl: 'https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?w=500&auto=format&fit=crop&q=60',
+    vendorName: 'آریا دیجی دیجیتال',
+    rating: 4.6,
+    reviewsCount: 42,
+    isInstallmentEligible: true,
+    installmentMonthsMax: 6,
+    downPaymentPercent: 10,
+    specifications: {
+      'جنس بدنه': 'فولاد ضد زنگ مقاوم ۳۱۶L',
+      'صفحه نمایش': '1.5 اینچ Super AMOLED Sapphire Crystal',
+      'سیستم عامل': 'Wear OS Powered by Samsung',
+      'مقاومت در برابر آب': 'استاندارد IP68 و 5ATM تا عمق ۵۰ متر',
+      'سنسورها': 'پایش ضربان قلب، اکسیژن خون، فشارخون و خواب'
+    }
+  },
+  {
+    id: 'p12',
+    title: 'کت چرمی یقه ایستاده زیپ‌دار مارال چرم اسپرت',
+    englishTitle: 'Maral Genuine Leather Sport Biker Jacket',
+    category: 'fashion',
+    price: 9800000,
+    description: 'کت تک چرمی شیک و امروزی تهیه شده از چرم صد درصد طبیعی سنگین درجه یک. دوخت بسیار تمیز و صنعتی، جیب‌های زیپ‌دار مخفی سینه و آستر پلی‌استر گرم و مقاوم در برابر سرما و رطوبت.',
+    imageUrl: 'https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500&auto=format&fit=crop&q=60',
+    vendorName: 'چرم اصیل تبریز',
+    rating: 4.8,
+    reviewsCount: 38,
+    isInstallmentEligible: true,
+    installmentMonthsMax: 9,
+    downPaymentPercent: 20,
+    specifications: {
+      'جنس کت': 'چرم ۱۰۰٪ طبیعی ممتاز گاو',
+      'رنگبندی': 'مشکی مات کلاسیک / قهوه‌ای سوخته',
+      'جنس یراق آلات': 'استیل ضد زنگ ژاپنی YKK',
+      'ظرفیت گرمایی': 'مناسب پاییز، زمستان و بهار خنک'
+    }
+  },
+  {
+    id: 'p13',
+    title: 'کفش رانینگ و پیاده‌روی نایک ایر مکس ۹۰ اورجینال',
+    englishTitle: 'Nike Air Max 90 Classic Running Shoes',
+    category: 'fashion',
+    price: 6850000,
+    description: 'کفش ورزشی نوستالژیک و در عین حال فوق‌العاده مدرن نایک با کپسول هوای مشهود فعال در پاشنه برای کاهش خستگی زانو و ستون فقرات در پیاده‌روی‌های طولانی. رویه مشبک تنفس‌پذیر توری و جیر با اصالت.',
+    imageUrl: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60',
+    vendorName: 'چرم اصیل تبریز',
+    rating: 4.7,
+    reviewsCount: 91,
+    isInstallmentEligible: false,
+    specifications: {
+      'نوع کاربری': 'دویدن، تمرین باشگاهی و استفاده پیاده‌روی روزانه',
+      'فناوری کفی': 'Nike Air Sole کپسولی جاذب پاشنه',
+      'جنس رویه': 'ترکیب جیر طبیعی، چرم مصنوعی و تور TPU',
+      'وزن هر لنگه': '۲۸۰ گرم فوق سبک'
+    }
+  },
+  {
+    id: 'p14',
+    title: 'سرم جوانساز و ضد چروک اسید هیالورونیک لورآل پاریس',
+    englishTitle: 'LOreal Revitalift 1.5% Pure Hyaluronic Acid Serum',
+    category: 'beauty',
+    price: 1350000,
+    description: 'پرفروش‌ترین سرم ضد چروک دنیا حاوی ۱.۵ درصد اسید هیالورونیک خالص با دو وزن مولکولی متفاوت جهت رطوبت‌رسانی عمقی و کلاژن‌سازی آنی لایه‌های میانی پوست. برطرف کننده فوری ۴۰ درصد از چروک‌های ریز صورت.',
+    imageUrl: 'https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=500&auto=format&fit=crop&q=60',
+    vendorName: 'آرایشگاه سفیر زیبایی',
+    rating: 4.8,
+    reviewsCount: 154,
+    isInstallmentEligible: false,
+    specifications: {
+      'حجم سرم': '۳۰ میلی‌لیتر پمپی',
+      'درصد خلوص': '1.5% Hyaluronic Acid خالص',
+      'روش مصرف': 'دو نوبت صبح و شب روی پوست تمیز',
+      'تایید پزشک': 'تست شده توسط برترین متخصصان ارشد پوست دنیا'
+    }
+  },
+  {
+    id: 'p15',
+    title: 'جاروبرقی رباتیک هوشمند شیائومی مدل S10 لیدار',
+    englishTitle: 'Xiaomi Robot Vacuum Cleaner S10 Lidar Version',
+    category: 'home',
+    price: 16900000,
+    description: 'دستیار نظافت بی‌صدا با قدرت مکش عالی ۴۰۰۰ پاسکال و ناوبری پیشرفته لیزری LDS برای نقشه‌برداری سه بعدی و هوشمند خانه شما. قابلیت جاروکشی مرتب و تی‌کشی همزمان با مخزن آب هوشمند.',
+    imageUrl: 'https://images.unsplash.com/photo-1518133680790-3985eccf521e?w=500&auto=format&fit=crop&q=60',
+    vendorName: 'لوازم خانگی آریا کالا',
+    rating: 4.7,
+    reviewsCount: 56,
+    isInstallmentEligible: true,
+    installmentMonthsMax: 12,
+    downPaymentPercent: 15,
+    specifications: {
+      'قدرت مکش': '4000 Pa مکش توربو موتور ژاپنی',
+      'ظرفیت باتری': '3200 mAh (تا ۱۳۰ دقیقه کارکرد مداوم)',
+      'سنسور یابی': 'رادارهای لیزری دوقلو LDS 360 درجه',
+      'قابلیت تبلت/موبایل': 'کنترل کامل با اپلیکیشن Mi Home و ترسیم دیوارهای مجازی'
+    }
   }
 ];
 
@@ -309,6 +433,30 @@ const initialBlogPosts: BlogPost[] = [
     readTime: '۵ دقیقه',
     category: 'اقتصاد و مشاوره مالی',
     coverUrl: 'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=500&auto=format&fit=crop&q=60'
+  } as BlogPost,
+  {
+    id: 'b4',
+    title: 'راهنمای طلایی خرید عطر گرم و سرد مناسب هر فصل',
+    slug: 'perfume-guide-cold-warm-seasons',
+    summary: 'چگونه بر اساس آب و هوای بهار، تابستان یا زمستان، رایحه ماندگار و ایده آل خود را انتخاب کنیم و پخش بوی عطر را افزایش دهیم.',
+    content: 'انتخاب عطر فراتر از سلیقه شخصی، به فیزیولوژی و دمای هوا گره خورده است. گرمای تابستان مولکول‌های مرکباتی و خنک را به سرعت تبخیر می‌کند، در حالی که سرمای زمستان حرکت اسانس‌های گرم و چوبی مثل وانیل یا چوب عود را کندتر و با وقارتر جلوه می‌دهد. در این مقاله به بررسی تفاوت غلظت‌های پرفیوم، ادو پرفیوم و ادو تویلت پرداخته و روش‌های نگهداری عطر در سایه و یخچال را بررسی می‌کنیم تا از تغییر بوی عطر محبوبتان جلوگیری کنید...',
+    author: 'الناز رادمنش (کارشناس زیبایی)',
+    date: '۱۰ خرداد ۱۴۰۵',
+    readTime: '۵ دقیقه',
+    category: 'آرایشی و زیبایی',
+    coverUrl: 'https://images.unsplash.com/photo-1541643600914-78b084683601?w=500&auto=format&fit=crop&q=60'
+  } as BlogPost,
+  {
+    id: 'b5',
+    title: '۵ ترفند اساسی برای نگهداری و براق ماندن کفش و کاپشن چرمی',
+    slug: 'leather-care-and-maintenance-tips',
+    summary: 'رازهایی حرفه‌ای برای جلوگیری از پوسته پوسته شدن چرم طبیعی و حفظ لطافت و براق بودن آن برای دهه‌ها استفاده مداوم.',
+    content: 'محصولات چرمی لوکس مانند کفش‌های تبریز یا کت‌های مارال سزاوار مراقبت ویژه‌ای هستند تا کیفیت و درخشش اولیه خود را از دست ندهند. چرم مانند پوست زنده نیاز به تنفس و هیدراته شدن دارد. هرگز کفش‌های چرمی مرطوب را روبروی حرارت مستقیم بخاری قرار ندهید زیرا باعث خشکی و ترک خوردن الیاف آن می‌شود. استفاده مرتب از واکس‌های امولسیونی طبیعی فاقد پارافین، روغن کرچک یا وازلین به همراه نگهداری در کاور پارچه‌ای نخی تضمین می‌کند چرم شما برای نسل‌های بعد نیز مثل روز اول مقاوم باقی بماند...',
+    author: 'غلامرضا شفیعی (استادکار چرم تبریز)',
+    date: '۰۴ خرداد ۱۴۰۵',
+    readTime: '۴ دقیقه',
+    category: 'مد و پوشاک',
+    coverUrl: 'https://images.unsplash.com/photo-1486308512473-9649fe4344c1?w=500&auto=format&fit=crop&q=60'
   } as BlogPost
 ];
 

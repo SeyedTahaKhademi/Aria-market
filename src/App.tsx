@@ -423,7 +423,10 @@ export default function App() {
         </div>
 
         <div className="max-w-7xl mx-auto border-t border-neutral-100 mt-8 pt-6 flex flex-col sm:flex-row items-center justify-between text-[10px] text-neutral-400 font-sans">
-          <span>© ۱۴۰۵ تمامی حقوق برای شرکت بازرگانی توسعه آریا مارکت محفوظ است.</span>
+          <div className="flex flex-col gap-1 text-right">
+            <span>© ۱۴۰۵ تمامی حقوق برای شرکت بازرگانی توسعه آریا مارکت محفوظ است.</span>
+            <span className="text-[10px] text-neutral-500 font-medium font-sans">طراحی و توسعه با افتخار توسط <span className="text-neutral-900 font-bold">سید طاها خادمی</span> | Developed with pride by <span className="font-bold text-neutral-900">Seyed Taha Khademi</span></span>
+          </div>
           <div className="flex gap-4 mt-2 sm:mt-0 font-light">
             <a href="#" className="hover:text-black">حریم خصوصی</a>
             <span>•</span>
