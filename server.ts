@@ -349,6 +349,116 @@ const initialProducts: Product[] = [
       'سنسور یابی': 'رادارهای لیزری دوقلو LDS 360 درجه',
       'قابلیت تبلت/موبایل': 'کنترل کامل با اپلیکیشن Mi Home و ترسیم دیوارهای مجازی'
     }
+  },
+  {
+    id: 'p16',
+    title: 'تلویزیون هوشمند ۶۵ اینچ OLED ال‌جی C3',
+    englishTitle: 'LG OLED65C3 4K Smart TV',
+    category: 'digital',
+    price: 89000000,
+    description: 'تلویزیون اولد پرچمدار ال‌جی با پردازشگر هوشمند آلفا ۹ نسل ۶، رزولوشن بی‌نقص 4K هوش مصنوعی، فناوری صدای شگفت‌انگیز Dolby Atmos، ۱۲۰ هرتز واقعی مخصوص گیمینگ نسل نهم و طراحی فوق باریک گالری استایل.',
+    imageUrl: 'https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=500&auto=format&fit=crop&q=60',
+    vendorName: 'آریا دیجی دیجیتال',
+    rating: 4.9,
+    reviewsCount: 35,
+    isInstallmentEligible: true,
+    installmentMonthsMax: 18,
+    downPaymentPercent: 25,
+    specifications: {
+      'فناوری پنل': 'OLED Evo خود روشن‌شونده با کنتراست بی‌نهایت',
+      'پردازشگر تصویر': 'α9 AI Processor Gen6',
+      'کیفیت تصویر': '4K Ultra HD با فرکانس 120Hz',
+      'پورت‌ها': '4x HDMI 2.1 کامل مخصوص بازی',
+      'سیستم صوتی': '40 وات با شبیه‌سازی ۹.۱.۲ کاناله هوشمند'
+    }
+  },
+  {
+    id: 'p17',
+    title: 'دستبند طلای ۱۸ عیار مینی‌مال کارتیر زنجیری',
+    englishTitle: 'Cartier Minimal 18k Gold Chain Bracelet',
+    category: 'fashion',
+    price: 32000000,
+    description: 'دستبند زنانه لوکس و مینیمال از طلای زرد ۱۸ عیار استاندارد ایران با قفل تافته فوق‌العاده مستحکم. طراحی کلاسیک زنجیری بسیار ایده آل برای استفاده‌های رسمی و روزمره به موازات حفظ ارزش ریالی سرمایه شما.',
+    imageUrl: 'https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=500&auto=format&fit=crop&q=60',
+    vendorName: 'گالری زرین‌دست',
+    rating: 4.8,
+    reviewsCount: 14,
+    isInstallmentEligible: true,
+    installmentMonthsMax: 12,
+    downPaymentPercent: 15,
+    specifications: {
+      'عيار طلا': '۱۸ عیار واقعی (۷۵۰)',
+      'وزن حدودی': '۷.۴ گرم جلا داده شده',
+      'رنگ طلا': 'زرد درخشان کلاسیک',
+      'نوع قفل': 'قفل مکانیکی طوطی درجه یک',
+      'جعبه بسته‌بندی': 'کاور لوکس پیشکش چرمی'
+    }
+  },
+  {
+    id: 'p18',
+    title: 'ادو پرفیوم زنانه شنل کوکو مادمازل ۱۰۰ میلی‌لیتر',
+    englishTitle: 'Chanel Coco Mademoiselle Intense 100ml',
+    category: 'beauty',
+    price: 14800000,
+    description: 'یکی از ماندگارترین و نمادین‌ترین شاهکارهای برند سلطنتی شنل فرانسه با رایحه ملایم و شیرین مرکبات، گل‌های یاس رازقی، رز ترکی، وانیل ماداگاسکار و چوب صندل شرقی برای جلوه‌ای لوکس و بی‌همتا.',
+    imageUrl: 'https://images.unsplash.com/photo-1541643600914-78b084683601?w=500&auto=format&fit=crop&q=60',
+    vendorName: 'آرایشگاه سفیر زیبایی',
+    rating: 5.0,
+    reviewsCount: 182,
+    isInstallmentEligible: true,
+    installmentMonthsMax: 6,
+    downPaymentPercent: 30,
+    specifications: {
+      'طبع عطر': 'ملایم، شیرین و بسیار اشرافی',
+      'گروه بویایی': 'شرقی گلی چوبی',
+      'غلظت اسانس': 'اصلی Eau de Parfum (EDP)',
+      'ماندگاری عطر': 'فوق العاده بالا (تا ۱۶ ساعت)',
+      'کشور مبدا': 'پاریس، فرانسه'
+    }
+  },
+  {
+    id: 'p19',
+    title: 'ماشین لباسشویی ۹ کیلویی ادواش سامسونگ',
+    englishTitle: 'Samsung AddWash 9kg Smart Washer',
+    category: 'home',
+    price: 38900000,
+    description: 'ماشین لباسشویی مجهز به تکنولوژی نوآورانه ادواش جهت افزودن لباس به جا مانده در حین شستشو، موتور اکوبابل تولیدکننده حباب سازگار با الیاف لباس، اتصال مستقیم به موبایل و اینورتر دیجیتال سوپر بی‌صدا.',
+    imageUrl: 'https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=500&auto=format&fit=crop&q=60',
+    vendorName: 'لوازم خانگی آریا کالا',
+    rating: 4.7,
+    reviewsCount: 43,
+    isInstallmentEligible: true,
+    installmentMonthsMax: 18,
+    downPaymentPercent: 10,
+    specifications: {
+      'ظرفیت دیگ': '۹ کیلوگرم بزرگ ویژه پتو شویی',
+      'دور موتور': '۱۴۰۰ دور در دقیقه واقعی',
+      'رده مصرف انرژی': 'A+++ فوق‌العاده کم‌مصرف',
+      'نوع موتور': 'Digital Inverter بدون تسمه',
+      'سیستم خودکار عیب‌یابی': 'دارای سیستم Smart Check هوشمند'
+    }
+  },
+  {
+    id: 'p20',
+    title: 'گوشی موبایل سامسونگ گلکسی S24 اولترا ۵۱۲ گیگابایت',
+    englishTitle: 'Samsung Galaxy S24 Ultra 512GB',
+    category: 'digital',
+    price: 74500000,
+    description: 'قدرتمندترین پرچمدار هوش مصنوعی سامسونگ در جهان با بدنه تیتانیوم گرید هوافضا، قلم هوشمند S-Pen کامپوزیت، دوربین رقیب‌کُش ۲۰۰ مگاپیکسلی با هوش تصویربرداری ProVisual و پردازنده اسنپ‌دراگون ۸ نسل ۳ عالی.',
+    imageUrl: 'https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500&auto=format&fit=crop&q=60',
+    vendorName: 'آریا دیجی دیجیتال',
+    rating: 4.9,
+    reviewsCount: 167,
+    isInstallmentEligible: true,
+    installmentMonthsMax: 12,
+    downPaymentPercent: 20,
+    specifications: {
+      'پردازنده گرافیکی': 'Snapdragon 8 Gen 3 (4nm)',
+      'صفحه نمایش': '6.8 اینچ Dynamic AMOLED 2X',
+      'نرخ نوسازی تصویر': '120Hz متغیر با کنتراست اوج',
+      'مقاومت شیشه': 'Gorilla Glass Armor ضد انعکاس',
+      'پالت رنگ ساختاری': 'تیتانیوم مشکی / خاکستری'
+    }
   }
 ];
 
